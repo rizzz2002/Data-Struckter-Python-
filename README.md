@@ -1,5 +1,4 @@
 # Data-Struckter-Python-
-Certainly! Here's a concise README for your GitHub repository focused on problem-solving with data structures in Python:
 
 Problem Solving with Data Structures in Python
 Welcome to my repository dedicated to problem-solving with data structures using Python! Here, you'll find a collection of solutions to various algorithmic problems, all implemented in Python.
