@@ -1,0 +1,39 @@
+Python Recursion Problem Solving
+Welcome to the Python Recursion Problem Solving repository! This repository contains Python solutions to various problems implemented using recursion. Recursion is a powerful technique in computer science where a function calls itself in order to solve problems in a divide-and-conquer approach.
+
+Table of Contents
+About
+Problem Categories
+Usage
+Contributing
+License
+About
+In this repository, you'll find Python solutions to a wide range of problems that can be elegantly solved using recursion. Each problem comes with a detailed explanation of the problem statement and the approach used to solve it recursively.
+
+The aim of this repository is to provide clear, concise, and efficient solutions to common programming problems, helping developers understand and master the art of recursion.
+
+Problem Categories
+The problems in this repository are categorized into different sections based on their nature and complexity. Some of the problem categories include:
+
+Basic Recursion Problems
+Dynamic Programming with Recursion
+Backtracking Algorithms
+Feel free to explore each category and dive into the solutions provided.
+
+Usage
+To use the solutions provided in this repository, simply clone the repository to your local machine:
+
+bash
+Copy code
+git clone https://github.com/your_username/python-recursion-problems.git
+Navigate to the desired problem category and explore the Python files containing the solutions. Each solution file is accompanied by comments explaining the logic and approach used to solve the problem recursively.
+
+You can run the Python files directly on your machine to test the solutions or integrate them into your own projects.
+
+Contributing
+Contributions to this repository are welcome! If you have additional problems to solve using recursion or improvements to existing solutions, feel free to open a pull request. Please ensure that your code follows the existing style and includes appropriate comments and documentation.
+
+If you encounter any bugs or issues with the existing solutions, please open an issue on the repository, and I'll do my best to address it promptly.
+
+License
+This repository is licensed under the MIT License. See the LICENSE file for details.
