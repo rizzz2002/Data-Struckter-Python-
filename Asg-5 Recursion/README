@@ -23,15 +23,6 @@ Feel free to explore each category and dive into the solutions provided.
 Usage
 To use the solutions provided in this repository, simply clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your_username/python-recursion-problems.git
-Navigate to the desired problem category and explore the Python files containing the solutions. Each solution file is accompanied by comments explaining the logic and approach used to solve the problem recursively.
-
-You can run the Python files directly on your machine to test the solutions or integrate them into your own projects.
-
-Contributing
-Contributions to this repository are welcome! If you have additional problems to solve using recursion or improvements to existing solutions, feel free to open a pull request. Please ensure that your code follows the existing style and includes appropriate comments and documentation.
 
 If you encounter any bugs or issues with the existing solutions, please open an issue on the repository, and I'll do my best to address it promptly.
 
